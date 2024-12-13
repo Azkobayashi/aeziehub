@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "09094542019",
+    "password": "Aezieaihub4",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -35,17 +35,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545"
+    "100056717295493"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100071880593545"
+      "100056717295493"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "prefix": "/",
+  "nickNameBot": "Aezie HUB",
+  "prefix": "",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
